@@ -10,11 +10,11 @@
 * packages: pandas, numpy, sklear, mapplotlib, seaborn, selenium, flask, json, pickle
 
 
-#data cleaning
+# data cleaning
 * salary into numeric data
 * columns made for employer provided and hourly wages
 * ratings
 * company state parsing
 * founded date into age of company
 * types of programming used in description
-![alt text](https://github.com/Kim-matthew-0422/datascience-salary/blob/main/avgsalary.png "average salary)
+![alt text](https://github.com/Kim-matthew-0422/datascience-salary/blob/main/avgsalary.png "average salary")

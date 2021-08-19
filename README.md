@@ -16,5 +16,8 @@
 * ratings
 * company state parsing
 * founded date into age of company
-* types of programming used in description
+* types of programming used in description.
+
+
+
 ![alt text](https://github.com/Kim-matthew-0422/datascience-salary/blob/main/avgsalary.png "average salary")

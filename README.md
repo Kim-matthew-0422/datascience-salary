@@ -21,3 +21,5 @@
 
 
 ![alt text](https://github.com/Kim-matthew-0422/datascience-salary/blob/main/avgsalary.png "average salary")
+![alt text](https://github.com/Kim-matthew-0422/datascience-salary/blob/main/location.png "location in US")
+![alt text](https://github.com/Kim-matthew-0422/datascience-salary/blob/main/titlesalary.png "average salary for title")

@@ -5,7 +5,7 @@
 * linear lasso, random forest regressions using gride searchCV
 * client facing api using flask
 
-#code and rss
+# code and rss
 * python 3.7
 * packages: pandas, numpy, sklear, mapplotlib, seaborn, selenium, flask, json, pickle
 
